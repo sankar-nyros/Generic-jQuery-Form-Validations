@@ -2,7 +2,7 @@ Generic-jQuery-Form-Validations
 ===============================
 
 Form validations using JavaScript
-
+_______________________________________
 
 HTML components in form are:
 
